@@ -1,0 +1,14 @@
+{
+    "name": "ithemeland/wordpress-bulk-edit-bundle-lite",
+    "authors": [{
+        "name": "iThemeland",
+        "email": "info@ithemelandco.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "wbebl\\classes\\": "classes/"
+        }
+    },
+    "require": {},
+    "description": "Wordpress bulk edit bundle lite"
+}

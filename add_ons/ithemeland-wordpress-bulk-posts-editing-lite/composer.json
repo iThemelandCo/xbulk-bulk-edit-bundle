@@ -1,0 +1,15 @@
+{
+    "name": "ithemeland/ithemeland-wordpress-posts-bulk-editing",
+    "authors": [
+        {
+            "name": "iThemeland",
+            "email": "info@ithemelandco.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "wpbel\\classes\\": "classes/"
+        }
+    },
+    "require": {}
+}

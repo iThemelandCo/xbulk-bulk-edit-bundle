@@ -1,0 +1,15 @@
+{
+    "name": "ali/woocommerce-bulk-edit-free",
+    "authors": [
+        {
+            "name": "Ali Koohbor",
+            "email": "akoohbor70@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "wcbef\\classes\\": "classes/"
+        }
+    },
+    "require": {}
+}

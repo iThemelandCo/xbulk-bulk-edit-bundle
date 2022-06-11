@@ -1,0 +1,16 @@
+{
+    "name": "ithemeland/ithemeland-woocommerce-bulk-coupons-editing-lite",
+    "authors": [
+        {
+            "name": "iThemeland",
+            "email": "info@ithemelandco.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "wccbef\\classes\\": "classes/"
+        }
+    },
+    "description": "Ithemeland Woocommerce Bulk Coupons Editing Lite",
+    "require": {}
+}
